@@ -2,3 +2,11 @@ h1 {
   color: blue;
   text-align: center;
 }
+p1{
+  font-family: monospace;
+  text-align: left; justify-content: center;
+  font-style: italic;
+}
+image{
+  background-color: #0194F3;
+}
